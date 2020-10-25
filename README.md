@@ -7,7 +7,10 @@ then exploratory analysis is done and observations are recorded.
 For each of the respective project dataset link is also provided and the modified cleaned data is also attached.
 
 
-[Project 1 : Student Performance Analysis ](https://github.com/nikita1610/Data_Analysis_Projects/tree/master/Student_Performance_Analysis)                         [Project 1 : Dataset](https://www.kaggle.com/spscientist/students-performance-in-exams)
+[Project 1 : Student Performance Analysis ](https://github.com/nikita1610/Data_Analysis_Projects/tree/master/Student_Performance_Analysis)                       
+
+[Project 1 : Dataset](https://www.kaggle.com/spscientist/students-performance-in-exams)
 
 
-[Project 2 : Ford GoBike Analysis](https://github.com/nikita1610/Data_Analysis_Projects/tree/master/Ford_GoBike_Analysis)                                           [Project 2 : Dataset](https://github.com/nikita1610/Data_Analysis_Projects/tree/master/Ford_GoBike_Analysis)
+[Project 2 : Ford GoBike Analysis](https://github.com/nikita1610/Data_Analysis_Projects/tree/master/Ford_GoBike_Analysis)                                       
+[Project 2 : Dataset](https://github.com/nikita1610/Data_Analysis_Projects/tree/master/Ford_GoBike_Analysis)
