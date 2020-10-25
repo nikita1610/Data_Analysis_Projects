@@ -1,0 +1,1001 @@
+,gender,race,parent_education,lunch,test_preparation_course,maths_score,reading_score,writing_score,Total_score,percentage,result
+0,female,group B,bachelor's degree,standard,none,72,72,74,218,72.66666666666667,PASS
+1,female,group C,some college,standard,completed,69,90,88,247,82.33333333333333,PASS
+2,female,group B,master's degree,standard,none,90,95,93,278,92.66666666666667,PASS
+3,male,group A,associate's degree,free/reduced,none,47,57,44,148,49.333333333333336,PASS
+4,male,group C,some college,standard,none,76,78,75,229,76.33333333333333,PASS
+5,female,group B,associate's degree,standard,none,71,83,78,232,77.33333333333333,PASS
+6,female,group B,some college,standard,completed,88,95,92,275,91.66666666666667,PASS
+7,male,group B,some college,free/reduced,none,40,43,39,122,40.666666666666664,PASS
+8,male,group D,high school,free/reduced,completed,64,64,67,195,65.0,PASS
+9,female,group B,high school,free/reduced,none,38,60,50,148,49.333333333333336,PASS
+10,male,group C,associate's degree,standard,none,58,54,52,164,54.666666666666664,PASS
+11,male,group D,associate's degree,standard,none,40,52,43,135,45.0,PASS
+12,female,group B,high school,standard,none,65,81,73,219,73.0,PASS
+13,male,group A,some college,standard,completed,78,72,70,220,73.33333333333333,PASS
+14,female,group A,master's degree,standard,none,50,53,58,161,53.666666666666664,PASS
+15,female,group C,some high school,standard,none,69,75,78,222,74.0,PASS
+16,male,group C,high school,standard,none,88,89,86,263,87.66666666666667,PASS
+17,female,group B,some high school,free/reduced,none,18,32,28,78,26.0,FAIL
+18,male,group C,master's degree,free/reduced,completed,46,42,46,134,44.666666666666664,PASS
+19,female,group C,associate's degree,free/reduced,none,54,58,61,173,57.666666666666664,PASS
+20,male,group D,high school,standard,none,66,69,63,198,66.0,PASS
+21,female,group B,some college,free/reduced,completed,65,75,70,210,70.0,PASS
+22,male,group D,some college,standard,none,44,54,53,151,50.333333333333336,PASS
+23,female,group C,some high school,standard,none,69,73,73,215,71.66666666666667,PASS
+24,male,group D,bachelor's degree,free/reduced,completed,74,71,80,225,75.0,PASS
+25,male,group A,master's degree,free/reduced,none,73,74,72,219,73.0,PASS
+26,male,group B,some college,standard,none,69,54,55,178,59.333333333333336,PASS
+27,female,group C,bachelor's degree,standard,none,67,69,75,211,70.33333333333333,PASS
+28,male,group C,high school,standard,none,70,70,65,205,68.33333333333333,PASS
+29,female,group D,master's degree,standard,none,62,70,75,207,69.0,PASS
+30,female,group D,some college,standard,none,69,74,74,217,72.33333333333333,PASS
+31,female,group B,some college,standard,none,63,65,61,189,63.0,PASS
+32,female,group E,master's degree,free/reduced,none,56,72,65,193,64.33333333333333,PASS
+33,male,group D,some college,standard,none,40,42,38,120,40.0,PASS
+34,male,group E,some college,standard,none,97,87,82,266,88.66666666666667,PASS
+35,male,group E,associate's degree,standard,completed,81,81,79,241,80.33333333333333,PASS
+36,female,group D,associate's degree,standard,none,74,81,83,238,79.33333333333333,PASS
+37,female,group D,some high school,free/reduced,none,50,64,59,173,57.666666666666664,PASS
+38,female,group D,associate's degree,free/reduced,completed,75,90,88,253,84.33333333333333,PASS
+39,male,group B,associate's degree,free/reduced,none,57,56,57,170,56.666666666666664,PASS
+40,male,group C,associate's degree,free/reduced,none,55,61,54,170,56.666666666666664,PASS
+41,female,group C,associate's degree,standard,none,58,73,68,199,66.33333333333333,PASS
+42,female,group B,associate's degree,standard,none,53,58,65,176,58.666666666666664,PASS
+43,male,group B,some college,free/reduced,completed,59,65,66,190,63.333333333333336,PASS
+44,female,group E,associate's degree,free/reduced,none,50,56,54,160,53.333333333333336,PASS
+45,male,group B,associate's degree,standard,none,65,54,57,176,58.666666666666664,PASS
+46,female,group A,associate's degree,standard,completed,55,65,62,182,60.666666666666664,PASS
+47,female,group C,high school,standard,none,66,71,76,213,71.0,PASS
+48,female,group D,associate's degree,free/reduced,completed,57,74,76,207,69.0,PASS
+49,male,group C,high school,standard,completed,82,84,82,248,82.66666666666667,PASS
+50,male,group E,some college,standard,none,53,55,48,156,52.0,PASS
+51,male,group E,associate's degree,free/reduced,completed,77,69,68,214,71.33333333333333,PASS
+52,male,group C,some college,standard,none,53,44,42,139,46.333333333333336,PASS
+53,male,group D,high school,standard,none,88,78,75,241,80.33333333333333,PASS
+54,female,group C,some high school,free/reduced,completed,71,84,87,242,80.66666666666667,PASS
+55,female,group C,high school,free/reduced,none,33,41,43,117,39.0,PASS
+56,female,group E,associate's degree,standard,completed,82,85,86,253,84.33333333333333,PASS
+57,male,group D,associate's degree,standard,none,52,55,49,156,52.0,PASS
+58,male,group D,some college,standard,completed,58,59,58,175,58.333333333333336,PASS
+59,female,group C,some high school,free/reduced,none,0,17,10,27,9.0,FAIL
+60,male,group E,bachelor's degree,free/reduced,completed,79,74,72,225,75.0,PASS
+61,male,group A,some high school,free/reduced,none,39,39,34,112,37.333333333333336,PASS
+62,male,group A,associate's degree,free/reduced,none,62,61,55,178,59.333333333333336,PASS
+63,female,group C,associate's degree,standard,none,69,80,71,220,73.33333333333333,PASS
+64,female,group D,some high school,standard,none,59,58,59,176,58.666666666666664,PASS
+65,male,group B,some high school,standard,none,67,64,61,192,64.0,PASS
+66,male,group D,some high school,free/reduced,none,45,37,37,119,39.666666666666664,PASS
+67,female,group C,some college,standard,none,60,72,74,206,68.66666666666667,PASS
+68,male,group B,associate's degree,free/reduced,none,61,58,56,175,58.333333333333336,PASS
+69,female,group C,associate's degree,standard,none,39,64,57,160,53.333333333333336,PASS
+70,female,group D,some college,free/reduced,completed,58,63,73,194,64.66666666666667,PASS
+71,male,group D,some college,standard,completed,63,55,63,181,60.333333333333336,PASS
+72,female,group A,associate's degree,free/reduced,none,41,51,48,140,46.666666666666664,PASS
+73,male,group C,some high school,free/reduced,none,61,57,56,174,58.0,PASS
+74,male,group C,some high school,standard,none,49,49,41,139,46.333333333333336,PASS
+75,male,group B,associate's degree,free/reduced,none,44,41,38,123,41.0,PASS
+76,male,group E,some high school,standard,none,30,26,22,78,26.0,FAIL
+77,male,group A,bachelor's degree,standard,completed,80,78,81,239,79.66666666666667,PASS
+78,female,group D,some high school,standard,completed,61,74,72,207,69.0,PASS
+79,female,group E,master's degree,standard,none,62,68,68,198,66.0,PASS
+80,female,group B,associate's degree,standard,none,47,49,50,146,48.666666666666664,PASS
+81,male,group B,high school,free/reduced,none,49,45,45,139,46.333333333333336,PASS
+82,male,group A,some college,free/reduced,completed,50,47,54,151,50.333333333333336,PASS
+83,male,group E,associate's degree,standard,none,72,64,63,199,66.33333333333333,PASS
+84,male,group D,high school,free/reduced,none,42,39,34,115,38.333333333333336,PASS
+85,female,group C,some college,standard,none,73,80,82,235,78.33333333333333,PASS
+86,female,group C,some college,free/reduced,none,76,83,88,247,82.33333333333333,PASS
+87,female,group D,associate's degree,standard,none,71,71,74,216,72.0,PASS
+88,female,group A,some college,standard,none,58,70,67,195,65.0,PASS
+89,female,group D,some high school,standard,none,73,86,82,241,80.33333333333333,PASS
+90,female,group C,bachelor's degree,standard,none,65,72,74,211,70.33333333333333,PASS
+91,male,group C,high school,free/reduced,none,27,34,36,97,32.333333333333336,FAIL
+92,male,group C,high school,standard,none,71,79,71,221,73.66666666666667,PASS
+93,male,group C,associate's degree,free/reduced,completed,43,45,50,138,46.0,PASS
+94,female,group B,some college,standard,none,79,86,92,257,85.66666666666667,PASS
+95,male,group C,associate's degree,free/reduced,completed,78,81,82,241,80.33333333333333,PASS
+96,male,group B,some high school,standard,completed,65,66,62,193,64.33333333333333,PASS
+97,female,group E,some college,standard,completed,63,72,70,205,68.33333333333333,PASS
+98,female,group D,some college,free/reduced,none,58,67,62,187,62.333333333333336,PASS
+99,female,group D,bachelor's degree,standard,none,65,67,62,194,64.66666666666667,PASS
+100,male,group B,some college,standard,none,79,67,67,213,71.0,PASS
+101,male,group D,bachelor's degree,standard,completed,68,74,74,216,72.0,PASS
+102,female,group D,associate's degree,standard,none,85,91,89,265,88.33333333333333,PASS
+103,male,group B,high school,standard,completed,60,44,47,151,50.333333333333336,PASS
+104,male,group C,some college,standard,completed,98,86,90,274,91.33333333333333,PASS
+105,female,group C,some college,standard,none,58,67,72,197,65.66666666666667,PASS
+106,female,group D,master's degree,standard,none,87,100,100,287,95.66666666666667,PASS
+107,male,group E,associate's degree,standard,completed,66,63,64,193,64.33333333333333,PASS
+108,female,group B,associate's degree,free/reduced,none,52,76,70,198,66.0,PASS
+109,female,group B,some high school,standard,none,70,64,72,206,68.66666666666667,PASS
+110,female,group D,associate's degree,free/reduced,completed,77,89,98,264,88.0,PASS
+111,male,group C,high school,standard,none,62,55,49,166,55.333333333333336,PASS
+112,male,group A,associate's degree,standard,none,54,53,47,154,51.333333333333336,PASS
+113,female,group D,some college,standard,none,51,58,54,163,54.333333333333336,PASS
+114,female,group E,bachelor's degree,standard,completed,99,100,100,299,99.66666666666667,PASS
+115,male,group C,high school,standard,none,84,77,74,235,78.33333333333333,PASS
+116,female,group B,bachelor's degree,free/reduced,none,75,85,82,242,80.66666666666667,PASS
+117,female,group D,bachelor's degree,standard,none,78,82,79,239,79.66666666666667,PASS
+118,female,group D,some high school,standard,none,51,63,61,175,58.333333333333336,PASS
+119,female,group C,some college,standard,none,55,69,65,189,63.0,PASS
+120,female,group C,bachelor's degree,standard,completed,79,92,89,260,86.66666666666667,PASS
+121,male,group B,associate's degree,standard,completed,91,89,92,272,90.66666666666667,PASS
+122,female,group C,some college,standard,completed,88,93,93,274,91.33333333333333,PASS
+123,male,group D,high school,free/reduced,none,63,57,56,176,58.666666666666664,PASS
+124,male,group E,some college,standard,none,83,80,73,236,78.66666666666667,PASS
+125,female,group B,high school,standard,none,87,95,86,268,89.33333333333333,PASS
+126,male,group B,some high school,standard,none,72,68,67,207,69.0,PASS
+127,male,group D,some college,standard,completed,65,77,74,216,72.0,PASS
+128,male,group D,master's degree,standard,none,82,82,74,238,79.33333333333333,PASS
+129,female,group A,bachelor's degree,standard,none,51,49,51,151,50.333333333333336,PASS
+130,male,group D,master's degree,standard,none,89,84,82,255,85.0,PASS
+131,male,group C,some high school,free/reduced,completed,53,37,40,130,43.333333333333336,PASS
+132,male,group E,some college,free/reduced,completed,87,74,70,231,77.0,PASS
+133,female,group C,some college,standard,completed,75,81,84,240,80.0,PASS
+134,male,group D,bachelor's degree,free/reduced,completed,74,79,75,228,76.0,PASS
+135,male,group C,bachelor's degree,standard,none,58,55,48,161,53.666666666666664,PASS
+136,male,group B,some high school,standard,completed,51,54,41,146,48.666666666666664,PASS
+137,male,group E,high school,standard,none,70,55,56,181,60.333333333333336,PASS
+138,female,group C,associate's degree,standard,none,59,66,67,192,64.0,PASS
+139,male,group D,some college,standard,completed,71,61,69,201,67.0,PASS
+140,female,group D,some high school,standard,none,76,72,71,219,73.0,PASS
+141,female,group C,some college,free/reduced,none,59,62,64,185,61.666666666666664,PASS
+142,female,group E,some college,free/reduced,completed,42,55,54,151,50.333333333333336,PASS
+143,male,group A,high school,standard,none,57,43,47,147,49.0,PASS
+144,male,group D,some college,standard,none,88,73,78,239,79.66666666666667,PASS
+145,female,group C,some college,free/reduced,none,22,39,33,94,31.333333333333332,FAIL
+146,male,group B,some high school,standard,none,88,84,75,247,82.33333333333333,PASS
+147,male,group C,associate's degree,free/reduced,none,73,68,66,207,69.0,PASS
+148,female,group D,bachelor's degree,standard,completed,68,75,81,224,74.66666666666667,PASS
+149,male,group E,associate's degree,free/reduced,completed,100,100,93,293,97.66666666666667,PASS
+150,male,group A,some high school,standard,completed,62,67,69,198,66.0,PASS
+151,male,group A,bachelor's degree,standard,none,77,67,68,212,70.66666666666667,PASS
+152,female,group B,associate's degree,standard,completed,59,70,66,195,65.0,PASS
+153,male,group D,bachelor's degree,standard,none,54,49,47,150,50.0,PASS
+154,male,group D,some high school,standard,none,62,67,61,190,63.333333333333336,PASS
+155,female,group C,some college,standard,completed,70,89,88,247,82.33333333333333,PASS
+156,female,group E,high school,free/reduced,completed,66,74,78,218,72.66666666666667,PASS
+157,male,group B,some college,free/reduced,none,60,60,60,180,60.0,PASS
+158,female,group B,associate's degree,standard,completed,61,86,87,234,78.0,PASS
+159,male,group D,associate's degree,free/reduced,none,66,62,64,192,64.0,PASS
+160,male,group B,associate's degree,free/reduced,completed,82,78,74,234,78.0,PASS
+161,female,group E,some college,free/reduced,completed,75,88,85,248,82.66666666666667,PASS
+162,male,group B,master's degree,free/reduced,none,49,53,52,154,51.333333333333336,PASS
+163,male,group C,high school,standard,none,52,53,49,154,51.333333333333336,PASS
+164,female,group E,master's degree,standard,none,81,92,91,264,88.0,PASS
+165,female,group C,bachelor's degree,standard,completed,96,100,100,296,98.66666666666667,PASS
+166,male,group C,high school,free/reduced,completed,53,51,51,155,51.666666666666664,PASS
+167,female,group B,master's degree,free/reduced,completed,58,76,78,212,70.66666666666667,PASS
+168,female,group B,high school,standard,completed,68,83,78,229,76.33333333333333,PASS
+169,female,group C,some college,free/reduced,completed,67,75,70,212,70.66666666666667,PASS
+170,male,group A,high school,standard,completed,72,73,74,219,73.0,PASS
+171,male,group E,some high school,standard,none,94,88,78,260,86.66666666666667,PASS
+172,female,group D,some college,standard,none,79,86,81,246,82.0,PASS
+173,female,group C,associate's degree,standard,none,63,67,70,200,66.66666666666667,PASS
+174,female,group C,bachelor's degree,free/reduced,completed,43,51,54,148,49.333333333333336,PASS
+175,female,group C,master's degree,standard,completed,81,91,87,259,86.33333333333333,PASS
+176,female,group B,high school,free/reduced,completed,46,54,58,158,52.666666666666664,PASS
+177,female,group C,associate's degree,standard,completed,71,77,77,225,75.0,PASS
+178,female,group B,master's degree,free/reduced,completed,52,70,62,184,61.333333333333336,PASS
+179,female,group D,some high school,standard,completed,97,100,100,297,99.0,PASS
+180,male,group C,master's degree,free/reduced,completed,62,68,75,205,68.33333333333333,PASS
+181,female,group C,some college,free/reduced,none,46,64,66,176,58.666666666666664,PASS
+182,female,group E,high school,standard,none,50,50,47,147,49.0,PASS
+183,female,group D,associate's degree,standard,none,65,69,70,204,68.0,PASS
+184,male,group C,some high school,free/reduced,completed,45,52,49,146,48.666666666666664,PASS
+185,male,group C,associate's degree,free/reduced,completed,65,67,65,197,65.66666666666667,PASS
+186,male,group E,high school,standard,none,80,76,65,221,73.66666666666667,PASS
+187,male,group D,some high school,standard,completed,62,66,68,196,65.33333333333333,PASS
+188,male,group B,some high school,free/reduced,none,48,52,45,145,48.333333333333336,PASS
+189,female,group C,bachelor's degree,standard,none,77,88,87,252,84.0,PASS
+190,female,group E,associate's degree,standard,none,66,65,69,200,66.66666666666667,PASS
+191,male,group D,some college,standard,completed,76,83,79,238,79.33333333333333,PASS
+192,female,group B,some high school,standard,none,62,64,66,192,64.0,PASS
+193,male,group D,some college,standard,completed,77,62,62,201,67.0,PASS
+194,female,group C,master's degree,standard,completed,69,84,85,238,79.33333333333333,PASS
+195,male,group D,associate's degree,standard,none,61,55,52,168,56.0,PASS
+196,male,group C,some high school,free/reduced,completed,59,69,65,193,64.33333333333333,PASS
+197,male,group E,high school,free/reduced,none,55,56,51,162,54.0,PASS
+198,female,group B,some college,free/reduced,none,45,53,55,153,51.0,PASS
+199,female,group B,bachelor's degree,free/reduced,none,78,79,76,233,77.66666666666667,PASS
+200,female,group C,associate's degree,standard,completed,67,84,86,237,79.0,PASS
+201,female,group D,some college,free/reduced,none,65,81,77,223,74.33333333333333,PASS
+202,male,group C,associate's degree,standard,none,69,77,69,215,71.66666666666667,PASS
+203,female,group B,associate's degree,standard,none,57,69,68,194,64.66666666666667,PASS
+204,male,group C,some college,standard,none,59,41,42,142,47.333333333333336,PASS
+205,male,group D,some high school,standard,completed,74,71,78,223,74.33333333333333,PASS
+206,male,group E,bachelor's degree,standard,none,82,62,62,206,68.66666666666667,PASS
+207,male,group E,high school,standard,completed,81,80,76,237,79.0,PASS
+208,female,group B,some college,free/reduced,none,74,81,76,231,77.0,PASS
+209,female,group B,some college,free/reduced,none,58,61,66,185,61.666666666666664,PASS
+210,male,group D,some high school,free/reduced,completed,80,79,79,238,79.33333333333333,PASS
+211,male,group C,some college,free/reduced,none,35,28,27,90,30.0,FAIL
+212,female,group C,high school,free/reduced,none,42,62,60,164,54.666666666666664,PASS
+213,male,group C,associate's degree,free/reduced,completed,60,51,56,167,55.666666666666664,PASS
+214,male,group E,high school,standard,completed,87,91,81,259,86.33333333333333,PASS
+215,male,group B,some high school,standard,completed,84,83,75,242,80.66666666666667,PASS
+216,female,group E,associate's degree,free/reduced,completed,83,86,88,257,85.66666666666667,PASS
+217,female,group C,high school,free/reduced,none,34,42,39,115,38.333333333333336,PASS
+218,male,group B,high school,free/reduced,none,66,77,70,213,71.0,PASS
+219,male,group B,some high school,standard,completed,61,56,56,173,57.666666666666664,PASS
+220,female,group D,high school,standard,completed,56,68,74,198,66.0,PASS
+221,male,group B,associate's degree,standard,none,87,85,73,245,81.66666666666667,PASS
+222,female,group C,some high school,free/reduced,none,55,65,62,182,60.666666666666664,PASS
+223,male,group D,some high school,standard,none,86,80,75,241,80.33333333333333,PASS
+224,female,group B,associate's degree,standard,completed,52,66,73,191,63.666666666666664,PASS
+225,female,group E,master's degree,free/reduced,none,45,56,54,155,51.666666666666664,PASS
+226,female,group C,some college,standard,none,72,72,71,215,71.66666666666667,PASS
+227,male,group D,high school,standard,none,57,50,54,161,53.666666666666664,PASS
+228,male,group A,some high school,free/reduced,none,68,72,64,204,68.0,PASS
+229,female,group C,some college,standard,completed,88,95,94,277,92.33333333333333,PASS
+230,male,group D,some college,standard,none,76,64,66,206,68.66666666666667,PASS
+231,male,group C,associate's degree,standard,none,46,43,42,131,43.666666666666664,PASS
+232,female,group B,bachelor's degree,standard,none,67,86,83,236,78.66666666666667,PASS
+233,male,group E,some high school,standard,none,92,87,78,257,85.66666666666667,PASS
+234,male,group C,bachelor's degree,standard,completed,83,82,84,249,83.0,PASS
+235,male,group D,associate's degree,standard,none,80,75,77,232,77.33333333333333,PASS
+236,male,group D,bachelor's degree,free/reduced,none,63,66,67,196,65.33333333333333,PASS
+237,female,group D,some high school,standard,completed,64,60,74,198,66.0,PASS
+238,male,group B,some college,standard,none,54,52,51,157,52.333333333333336,PASS
+239,male,group C,associate's degree,standard,none,84,80,80,244,81.33333333333333,PASS
+240,male,group D,high school,free/reduced,completed,73,68,66,207,69.0,PASS
+241,female,group E,bachelor's degree,standard,none,80,83,83,246,82.0,PASS
+242,female,group D,high school,standard,none,56,52,55,163,54.333333333333336,PASS
+243,male,group E,some college,standard,none,59,51,43,153,51.0,PASS
+244,male,group D,some high school,standard,none,75,74,69,218,72.66666666666667,PASS
+245,male,group C,associate's degree,standard,none,85,76,71,232,77.33333333333333,PASS
+246,male,group E,associate's degree,standard,none,89,76,74,239,79.66666666666667,PASS
+247,female,group B,high school,standard,completed,58,70,68,196,65.33333333333333,PASS
+248,female,group B,high school,standard,none,65,64,62,191,63.666666666666664,PASS
+249,male,group C,high school,standard,none,68,60,53,181,60.333333333333336,PASS
+250,male,group A,some high school,standard,completed,47,49,49,145,48.333333333333336,PASS
+251,female,group D,some college,free/reduced,none,71,83,83,237,79.0,PASS
+252,female,group B,some high school,standard,completed,60,70,70,200,66.66666666666667,PASS
+253,male,group D,master's degree,standard,none,80,80,72,232,77.33333333333333,PASS
+254,male,group D,high school,standard,none,54,52,52,158,52.666666666666664,PASS
+255,female,group E,some college,standard,none,62,73,70,205,68.33333333333333,PASS
+256,female,group C,associate's degree,free/reduced,none,64,73,68,205,68.33333333333333,PASS
+257,male,group C,associate's degree,standard,completed,78,77,77,232,77.33333333333333,PASS
+258,female,group B,some college,standard,none,70,75,78,223,74.33333333333333,PASS
+259,female,group C,master's degree,free/reduced,completed,65,81,81,227,75.66666666666667,PASS
+260,female,group C,some high school,free/reduced,completed,64,79,77,220,73.33333333333333,PASS
+261,male,group C,some college,standard,completed,79,79,78,236,78.66666666666667,PASS
+262,female,group C,some high school,free/reduced,none,44,50,51,145,48.333333333333336,PASS
+263,female,group E,high school,standard,none,99,93,90,282,94.0,PASS
+264,male,group D,high school,standard,none,76,73,68,217,72.33333333333333,PASS
+265,male,group D,some high school,free/reduced,none,59,42,41,142,47.333333333333336,PASS
+266,female,group C,bachelor's degree,standard,none,63,75,81,219,73.0,PASS
+267,female,group D,high school,standard,none,69,72,77,218,72.66666666666667,PASS
+268,female,group D,associate's degree,standard,completed,88,92,95,275,91.66666666666667,PASS
+269,female,group E,some college,free/reduced,none,71,76,70,217,72.33333333333333,PASS
+270,male,group C,bachelor's degree,standard,none,69,63,61,193,64.33333333333333,PASS
+271,male,group C,some college,standard,none,58,49,42,149,49.666666666666664,PASS
+272,female,group D,associate's degree,free/reduced,none,47,53,58,158,52.666666666666664,PASS
+273,female,group D,some college,standard,none,65,70,71,206,68.66666666666667,PASS
+274,male,group B,some college,standard,completed,88,85,76,249,83.0,PASS
+275,male,group C,bachelor's degree,standard,none,83,78,73,234,78.0,PASS
+276,female,group C,some high school,standard,completed,85,92,93,270,90.0,PASS
+277,female,group E,high school,standard,completed,59,63,75,197,65.66666666666667,PASS
+278,female,group C,some high school,free/reduced,none,65,86,80,231,77.0,PASS
+279,male,group B,bachelor's degree,free/reduced,none,73,56,57,186,62.0,PASS
+280,male,group D,high school,standard,none,53,52,42,147,49.0,PASS
+281,male,group D,high school,standard,none,45,48,46,139,46.333333333333336,PASS
+282,female,group D,bachelor's degree,free/reduced,none,73,79,84,236,78.66666666666667,PASS
+283,female,group D,some college,free/reduced,completed,70,78,78,226,75.33333333333333,PASS
+284,female,group B,some high school,standard,none,37,46,46,129,43.0,PASS
+285,male,group B,associate's degree,standard,completed,81,82,82,245,81.66666666666667,PASS
+286,male,group E,associate's degree,standard,completed,97,82,88,267,89.0,PASS
+287,female,group B,some high school,standard,none,67,89,82,238,79.33333333333333,PASS
+288,male,group B,bachelor's degree,free/reduced,none,88,75,76,239,79.66666666666667,PASS
+289,male,group E,some high school,standard,completed,77,76,77,230,76.66666666666667,PASS
+290,male,group C,associate's degree,standard,none,76,70,68,214,71.33333333333333,PASS
+291,male,group D,some high school,standard,none,86,73,70,229,76.33333333333333,PASS
+292,male,group C,some high school,standard,completed,63,60,57,180,60.0,PASS
+293,female,group E,bachelor's degree,standard,none,65,73,75,213,71.0,PASS
+294,male,group D,high school,free/reduced,completed,78,77,80,235,78.33333333333333,PASS
+295,male,group B,associate's degree,free/reduced,none,67,62,60,189,63.0,PASS
+296,male,group A,some high school,standard,completed,46,41,43,130,43.333333333333336,PASS
+297,male,group E,associate's degree,standard,completed,71,74,68,213,71.0,PASS
+298,male,group C,high school,free/reduced,completed,40,46,50,136,45.333333333333336,PASS
+299,male,group D,associate's degree,free/reduced,none,90,87,75,252,84.0,PASS
+300,male,group A,some college,free/reduced,completed,81,78,81,240,80.0,PASS
+301,male,group D,some high school,free/reduced,none,56,54,52,162,54.0,PASS
+302,female,group C,associate's degree,standard,completed,67,84,81,232,77.33333333333333,PASS
+303,male,group B,associate's degree,standard,none,80,76,64,220,73.33333333333333,PASS
+304,female,group C,associate's degree,standard,completed,74,75,83,232,77.33333333333333,PASS
+305,male,group A,some college,standard,none,69,67,69,205,68.33333333333333,PASS
+306,male,group E,some college,standard,completed,99,87,81,267,89.0,PASS
+307,male,group C,some high school,standard,none,51,52,44,147,49.0,PASS
+308,female,group B,associate's degree,free/reduced,none,53,71,67,191,63.666666666666664,PASS
+309,female,group D,high school,free/reduced,none,49,57,52,158,52.666666666666664,PASS
+310,female,group B,associate's degree,standard,none,73,76,80,229,76.33333333333333,PASS
+311,male,group B,bachelor's degree,standard,none,66,60,57,183,61.0,PASS
+312,male,group D,bachelor's degree,standard,completed,67,61,68,196,65.33333333333333,PASS
+313,female,group C,associate's degree,free/reduced,completed,68,67,69,204,68.0,PASS
+314,female,group C,bachelor's degree,standard,completed,59,64,75,198,66.0,PASS
+315,male,group C,high school,standard,none,71,66,65,202,67.33333333333333,PASS
+316,female,group D,master's degree,standard,completed,77,82,91,250,83.33333333333333,PASS
+317,male,group C,associate's degree,standard,none,83,72,78,233,77.66666666666667,PASS
+318,male,group B,bachelor's degree,standard,none,63,71,69,203,67.66666666666667,PASS
+319,female,group D,associate's degree,free/reduced,none,56,65,63,184,61.333333333333336,PASS
+320,female,group C,high school,free/reduced,completed,67,79,84,230,76.66666666666667,PASS
+321,female,group E,high school,standard,none,75,86,79,240,80.0,PASS
+322,female,group C,some college,standard,none,71,81,80,232,77.33333333333333,PASS
+323,female,group C,some high school,free/reduced,none,43,53,53,149,49.666666666666664,PASS
+324,female,group C,high school,free/reduced,none,41,46,43,130,43.333333333333336,PASS
+325,female,group C,some college,standard,none,82,90,94,266,88.66666666666667,PASS
+326,male,group C,some college,standard,none,61,61,62,184,61.333333333333336,PASS
+327,male,group A,some college,free/reduced,none,28,23,19,70,23.333333333333332,FAIL
+328,male,group C,associate's degree,standard,completed,82,75,77,234,78.0,PASS
+329,female,group B,some high school,standard,none,41,55,51,147,49.0,PASS
+330,male,group C,high school,standard,none,71,60,61,192,64.0,PASS
+331,male,group C,associate's degree,standard,none,47,37,35,119,39.666666666666664,PASS
+332,male,group E,associate's degree,standard,completed,62,56,53,171,57.0,PASS
+333,male,group B,associate's degree,standard,none,90,78,81,249,83.0,PASS
+334,female,group C,bachelor's degree,standard,none,83,93,95,271,90.33333333333333,PASS
+335,female,group B,some college,free/reduced,none,61,68,66,195,65.0,PASS
+336,male,group D,some high school,standard,completed,76,70,69,215,71.66666666666667,PASS
+337,male,group C,associate's degree,standard,none,49,51,43,143,47.666666666666664,PASS
+338,female,group B,some high school,free/reduced,none,24,38,27,89,29.666666666666668,FAIL
+339,female,group D,some high school,free/reduced,completed,35,55,60,150,50.0,PASS
+340,male,group C,high school,free/reduced,none,58,61,52,171,57.0,PASS
+341,female,group C,high school,standard,none,61,73,63,197,65.66666666666667,PASS
+342,female,group B,high school,standard,completed,69,76,74,219,73.0,PASS
+343,male,group D,associate's degree,standard,completed,67,72,67,206,68.66666666666667,PASS
+344,male,group D,some college,standard,none,79,73,67,219,73.0,PASS
+345,female,group C,high school,standard,none,72,80,75,227,75.66666666666667,PASS
+346,male,group B,some college,standard,none,62,61,57,180,60.0,PASS
+347,female,group C,bachelor's degree,standard,completed,77,94,95,266,88.66666666666667,PASS
+348,male,group D,high school,free/reduced,none,75,74,66,215,71.66666666666667,PASS
+349,male,group E,associate's degree,standard,none,87,74,76,237,79.0,PASS
+350,female,group B,bachelor's degree,standard,none,52,65,69,186,62.0,PASS
+351,male,group E,some college,standard,none,66,57,52,175,58.333333333333336,PASS
+352,female,group C,some college,standard,completed,63,78,80,221,73.66666666666667,PASS
+353,female,group C,associate's degree,standard,none,46,58,57,161,53.666666666666664,PASS
+354,female,group C,some college,standard,none,59,71,70,200,66.66666666666667,PASS
+355,female,group B,bachelor's degree,standard,none,61,72,70,203,67.66666666666667,PASS
+356,male,group A,associate's degree,standard,none,63,61,61,185,61.666666666666664,PASS
+357,female,group C,some college,free/reduced,completed,42,66,69,177,59.0,PASS
+358,male,group D,some college,free/reduced,none,59,62,61,182,60.666666666666664,PASS
+359,female,group D,some college,standard,none,80,90,89,259,86.33333333333333,PASS
+360,female,group B,high school,standard,none,58,62,59,179,59.666666666666664,PASS
+361,male,group B,some high school,standard,completed,85,84,78,247,82.33333333333333,PASS
+362,female,group C,some college,standard,none,52,58,58,168,56.0,PASS
+363,female,group D,some high school,free/reduced,none,27,34,32,93,31.0,FAIL
+364,male,group C,some college,standard,none,59,60,58,177,59.0,PASS
+365,male,group A,bachelor's degree,free/reduced,completed,49,58,60,167,55.666666666666664,PASS
+366,male,group C,high school,standard,completed,69,58,53,180,60.0,PASS
+367,male,group C,bachelor's degree,free/reduced,none,61,66,61,188,62.666666666666664,PASS
+368,female,group A,some high school,free/reduced,none,44,64,58,166,55.333333333333336,PASS
+369,female,group D,some high school,standard,none,73,84,85,242,80.66666666666667,PASS
+370,male,group E,some college,standard,none,84,77,71,232,77.33333333333333,PASS
+371,female,group C,some college,free/reduced,completed,45,73,70,188,62.666666666666664,PASS
+372,male,group D,some high school,standard,none,74,74,72,220,73.33333333333333,PASS
+373,female,group D,some college,standard,completed,82,97,96,275,91.66666666666667,PASS
+374,female,group D,bachelor's degree,standard,none,59,70,73,202,67.33333333333333,PASS
+375,male,group E,associate's degree,free/reduced,none,46,43,41,130,43.333333333333336,PASS
+376,female,group D,some high school,standard,none,80,90,82,252,84.0,PASS
+377,female,group D,master's degree,free/reduced,completed,85,95,100,280,93.33333333333333,PASS
+378,female,group A,some high school,standard,none,71,83,77,231,77.0,PASS
+379,male,group A,bachelor's degree,standard,none,66,64,62,192,64.0,PASS
+380,female,group B,associate's degree,standard,none,80,86,83,249,83.0,PASS
+381,male,group C,associate's degree,standard,completed,87,100,95,282,94.0,PASS
+382,male,group C,master's degree,free/reduced,none,79,81,71,231,77.0,PASS
+383,female,group E,some high school,free/reduced,none,38,49,45,132,44.0,PASS
+384,female,group A,some high school,free/reduced,none,38,43,43,124,41.333333333333336,PASS
+385,female,group E,some college,standard,none,67,76,75,218,72.66666666666667,PASS
+386,female,group E,bachelor's degree,standard,none,64,73,70,207,69.0,PASS
+387,female,group C,associate's degree,free/reduced,none,57,78,67,202,67.33333333333333,PASS
+388,female,group D,high school,standard,none,62,64,64,190,63.333333333333336,PASS
+389,male,group D,master's degree,standard,none,73,70,75,218,72.66666666666667,PASS
+390,male,group E,some high school,free/reduced,completed,73,67,59,199,66.33333333333333,PASS
+391,female,group D,some college,standard,none,77,68,77,222,74.0,PASS
+392,male,group E,some college,standard,none,76,67,67,210,70.0,PASS
+393,male,group C,associate's degree,standard,completed,57,54,56,167,55.666666666666664,PASS
+394,female,group C,some high school,standard,completed,65,74,77,216,72.0,PASS
+395,male,group A,high school,free/reduced,none,48,45,41,134,44.666666666666664,PASS
+396,female,group B,high school,free/reduced,none,50,67,63,180,60.0,PASS
+397,female,group C,associate's degree,standard,none,85,89,95,269,89.66666666666667,PASS
+398,male,group B,some high school,standard,none,74,63,57,194,64.66666666666667,PASS
+399,male,group D,some high school,standard,none,60,59,54,173,57.666666666666664,PASS
+400,female,group C,some high school,standard,completed,59,54,67,180,60.0,PASS
+401,male,group A,some college,standard,none,53,43,43,139,46.333333333333336,PASS
+402,female,group A,some college,free/reduced,none,49,65,55,169,56.333333333333336,PASS
+403,female,group D,high school,standard,completed,88,99,100,287,95.66666666666667,PASS
+404,female,group C,high school,standard,none,54,59,62,175,58.333333333333336,PASS
+405,female,group C,some high school,standard,none,63,73,68,204,68.0,PASS
+406,male,group B,associate's degree,standard,completed,65,65,63,193,64.33333333333333,PASS
+407,female,group B,associate's degree,standard,none,82,80,77,239,79.66666666666667,PASS
+408,female,group D,high school,free/reduced,completed,52,57,56,165,55.0,PASS
+409,male,group D,associate's degree,standard,completed,87,84,85,256,85.33333333333333,PASS
+410,female,group D,master's degree,standard,completed,70,71,74,215,71.66666666666667,PASS
+411,male,group E,some college,standard,completed,84,83,78,245,81.66666666666667,PASS
+412,male,group D,associate's degree,standard,none,71,66,60,197,65.66666666666667,PASS
+413,male,group B,some high school,standard,completed,63,67,67,197,65.66666666666667,PASS
+414,female,group C,bachelor's degree,free/reduced,completed,51,72,79,202,67.33333333333333,PASS
+415,male,group E,high school,standard,none,84,73,69,226,75.33333333333333,PASS
+416,male,group C,bachelor's degree,standard,completed,71,74,68,213,71.0,PASS
+417,male,group C,associate's degree,standard,none,74,73,67,214,71.33333333333333,PASS
+418,male,group D,some college,standard,none,68,59,62,189,63.0,PASS
+419,male,group E,high school,free/reduced,completed,57,56,54,167,55.666666666666664,PASS
+420,female,group C,associate's degree,free/reduced,completed,82,93,93,268,89.33333333333333,PASS
+421,female,group D,high school,standard,completed,57,58,64,179,59.666666666666664,PASS
+422,female,group D,master's degree,free/reduced,completed,47,58,67,172,57.333333333333336,PASS
+423,female,group A,some high school,standard,completed,59,85,80,224,74.66666666666667,PASS
+424,male,group B,some college,free/reduced,none,41,39,34,114,38.0,PASS
+425,female,group C,some college,free/reduced,none,62,67,62,191,63.666666666666664,PASS
+426,male,group C,bachelor's degree,standard,none,86,83,86,255,85.0,PASS
+427,male,group C,some high school,free/reduced,none,69,71,65,205,68.33333333333333,PASS
+428,male,group A,some high school,free/reduced,none,65,59,53,177,59.0,PASS
+429,male,group C,some high school,free/reduced,none,68,63,54,185,61.666666666666664,PASS
+430,male,group C,associate's degree,free/reduced,none,64,66,59,189,63.0,PASS
+431,female,group C,high school,standard,none,61,72,70,203,67.66666666666667,PASS
+432,male,group C,high school,standard,none,61,56,55,172,57.333333333333336,PASS
+433,female,group A,some high school,free/reduced,none,47,59,50,156,52.0,PASS
+434,male,group C,some high school,standard,none,73,66,66,205,68.33333333333333,PASS
+435,male,group C,some college,free/reduced,completed,50,48,53,151,50.333333333333336,PASS
+436,male,group D,associate's degree,standard,none,75,68,64,207,69.0,PASS
+437,male,group D,associate's degree,free/reduced,none,75,66,73,214,71.33333333333333,PASS
+438,male,group C,high school,standard,none,70,56,51,177,59.0,PASS
+439,male,group D,some high school,standard,completed,89,88,82,259,86.33333333333333,PASS
+440,female,group C,some college,standard,completed,67,81,79,227,75.66666666666667,PASS
+441,female,group D,high school,standard,none,78,81,80,239,79.66666666666667,PASS
+442,female,group A,some high school,free/reduced,none,59,73,69,201,67.0,PASS
+443,female,group B,associate's degree,standard,none,73,83,76,232,77.33333333333333,PASS
+444,male,group A,some high school,free/reduced,none,79,82,73,234,78.0,PASS
+445,female,group C,some high school,standard,completed,67,74,77,218,72.66666666666667,PASS
+446,male,group D,some college,free/reduced,none,69,66,60,195,65.0,PASS
+447,male,group C,high school,standard,completed,86,81,80,247,82.33333333333333,PASS
+448,male,group B,high school,standard,none,47,46,42,135,45.0,PASS
+449,male,group B,associate's degree,standard,none,81,73,72,226,75.33333333333333,PASS
+450,female,group C,some college,free/reduced,completed,64,85,85,234,78.0,PASS
+451,female,group E,some college,standard,none,100,92,97,289,96.33333333333333,PASS
+452,female,group C,associate's degree,free/reduced,none,65,77,74,216,72.0,PASS
+453,male,group C,some college,free/reduced,none,65,58,49,172,57.333333333333336,PASS
+454,female,group C,associate's degree,free/reduced,none,53,61,62,176,58.666666666666664,PASS
+455,male,group C,bachelor's degree,free/reduced,none,37,56,47,140,46.666666666666664,PASS
+456,female,group D,bachelor's degree,standard,none,79,89,89,257,85.66666666666667,PASS
+457,male,group D,associate's degree,free/reduced,none,53,54,48,155,51.666666666666664,PASS
+458,female,group E,bachelor's degree,standard,none,100,100,100,300,100.0,PASS
+459,male,group B,high school,standard,completed,72,65,68,205,68.33333333333333,PASS
+460,male,group C,bachelor's degree,free/reduced,none,53,58,55,166,55.333333333333336,PASS
+461,male,group B,some college,free/reduced,none,54,54,45,153,51.0,PASS
+462,female,group E,some college,standard,none,71,70,76,217,72.33333333333333,PASS
+463,female,group C,some college,free/reduced,none,77,90,91,258,86.0,PASS
+464,male,group A,bachelor's degree,standard,completed,75,58,62,195,65.0,PASS
+465,female,group C,some college,standard,none,84,87,91,262,87.33333333333333,PASS
+466,female,group D,associate's degree,free/reduced,none,26,31,38,95,31.666666666666668,FAIL
+467,male,group A,high school,free/reduced,completed,72,67,65,204,68.0,PASS
+468,female,group A,high school,free/reduced,completed,77,88,85,250,83.33333333333333,PASS
+469,male,group C,some college,standard,none,91,74,76,241,80.33333333333333,PASS
+470,female,group C,associate's degree,standard,completed,83,85,90,258,86.0,PASS
+471,female,group C,high school,standard,none,63,69,74,206,68.66666666666667,PASS
+472,female,group C,associate's degree,standard,completed,68,86,84,238,79.33333333333333,PASS
+473,female,group D,some high school,standard,none,59,67,61,187,62.333333333333336,PASS
+474,female,group B,associate's degree,standard,completed,90,90,91,271,90.33333333333333,PASS
+475,female,group D,bachelor's degree,standard,completed,71,76,83,230,76.66666666666667,PASS
+476,male,group E,bachelor's degree,standard,completed,76,62,66,204,68.0,PASS
+477,male,group D,associate's degree,standard,none,80,68,72,220,73.33333333333333,PASS
+478,female,group D,master's degree,standard,none,55,64,70,189,63.0,PASS
+479,male,group E,associate's degree,standard,none,76,71,67,214,71.33333333333333,PASS
+480,male,group B,high school,standard,completed,73,71,68,212,70.66666666666667,PASS
+481,female,group D,associate's degree,free/reduced,none,52,59,56,167,55.666666666666664,PASS
+482,male,group C,some college,free/reduced,none,68,68,61,197,65.66666666666667,PASS
+483,male,group A,high school,standard,none,59,52,46,157,52.333333333333336,PASS
+484,female,group B,associate's degree,standard,none,49,52,54,155,51.666666666666664,PASS
+485,male,group C,high school,standard,none,70,74,71,215,71.66666666666667,PASS
+486,male,group D,some college,free/reduced,none,61,47,56,164,54.666666666666664,PASS
+487,female,group C,associate's degree,free/reduced,none,60,75,74,209,69.66666666666667,PASS
+488,male,group B,some high school,standard,completed,64,53,57,174,58.0,PASS
+489,male,group A,associate's degree,free/reduced,completed,79,82,82,243,81.0,PASS
+490,female,group A,associate's degree,free/reduced,none,65,85,76,226,75.33333333333333,PASS
+491,female,group C,associate's degree,standard,none,64,64,70,198,66.0,PASS
+492,female,group C,some college,standard,none,83,83,90,256,85.33333333333333,PASS
+493,female,group C,bachelor's degree,standard,none,81,88,90,259,86.33333333333333,PASS
+494,female,group B,high school,standard,none,54,64,68,186,62.0,PASS
+495,male,group D,high school,standard,completed,68,64,66,198,66.0,PASS
+496,female,group C,some college,standard,none,54,48,52,154,51.333333333333336,PASS
+497,female,group D,some college,free/reduced,completed,59,78,76,213,71.0,PASS
+498,female,group B,some high school,standard,none,66,69,68,203,67.66666666666667,PASS
+499,male,group E,some college,standard,none,76,71,72,219,73.0,PASS
+500,female,group D,master's degree,standard,none,74,79,82,235,78.33333333333333,PASS
+501,female,group B,associate's degree,standard,completed,94,87,92,273,91.0,PASS
+502,male,group C,some college,free/reduced,none,63,61,54,178,59.333333333333336,PASS
+503,female,group E,associate's degree,standard,completed,95,89,92,276,92.0,PASS
+504,female,group D,master's degree,free/reduced,none,40,59,54,153,51.0,PASS
+505,female,group B,some high school,standard,none,82,82,80,244,81.33333333333333,PASS
+506,male,group A,high school,standard,none,68,70,66,204,68.0,PASS
+507,male,group B,bachelor's degree,free/reduced,none,55,59,54,168,56.0,PASS
+508,male,group C,master's degree,standard,none,79,78,77,234,78.0,PASS
+509,female,group C,bachelor's degree,standard,none,86,92,87,265,88.33333333333333,PASS
+510,male,group D,some college,standard,none,76,71,73,220,73.33333333333333,PASS
+511,male,group A,some high school,standard,none,64,50,43,157,52.333333333333336,PASS
+512,male,group D,some high school,free/reduced,none,62,49,52,163,54.333333333333336,PASS
+513,female,group B,some high school,standard,completed,54,61,62,177,59.0,PASS
+514,female,group B,master's degree,free/reduced,completed,77,97,94,268,89.33333333333333,PASS
+515,female,group C,some high school,standard,completed,76,87,85,248,82.66666666666667,PASS
+516,female,group D,some college,standard,none,74,89,84,247,82.33333333333333,PASS
+517,female,group E,some college,standard,completed,66,74,73,213,71.0,PASS
+518,female,group D,some high school,standard,completed,66,78,78,222,74.0,PASS
+519,female,group B,high school,free/reduced,completed,67,78,79,224,74.66666666666667,PASS
+520,male,group D,some college,standard,none,71,49,52,172,57.333333333333336,PASS
+521,female,group C,associate's degree,standard,none,91,86,84,261,87.0,PASS
+522,male,group D,bachelor's degree,standard,none,69,58,57,184,61.333333333333336,PASS
+523,male,group C,master's degree,free/reduced,none,54,59,50,163,54.333333333333336,PASS
+524,male,group C,high school,standard,completed,53,52,49,154,51.333333333333336,PASS
+525,male,group E,some college,standard,none,68,60,59,187,62.333333333333336,PASS
+526,male,group C,some high school,free/reduced,completed,56,61,60,177,59.0,PASS
+527,female,group C,high school,free/reduced,none,36,53,43,132,44.0,PASS
+528,female,group D,bachelor's degree,free/reduced,none,29,41,47,117,39.0,PASS
+529,female,group C,associate's degree,standard,none,62,74,70,206,68.66666666666667,PASS
+530,female,group C,associate's degree,standard,completed,68,67,73,208,69.33333333333333,PASS
+531,female,group C,some high school,standard,none,47,54,53,154,51.333333333333336,PASS
+532,male,group E,associate's degree,standard,completed,62,61,58,181,60.333333333333336,PASS
+533,female,group E,associate's degree,standard,completed,79,88,94,261,87.0,PASS
+534,male,group B,high school,standard,completed,73,69,68,210,70.0,PASS
+535,female,group C,bachelor's degree,free/reduced,completed,66,83,83,232,77.33333333333333,PASS
+536,male,group C,associate's degree,standard,completed,51,60,58,169,56.333333333333336,PASS
+537,female,group D,high school,standard,none,51,66,62,179,59.666666666666664,PASS
+538,male,group E,bachelor's degree,standard,completed,85,66,71,222,74.0,PASS
+539,male,group A,associate's degree,standard,completed,97,92,86,275,91.66666666666667,PASS
+540,male,group C,high school,standard,completed,75,69,68,212,70.66666666666667,PASS
+541,male,group D,associate's degree,free/reduced,completed,79,82,80,241,80.33333333333333,PASS
+542,female,group C,associate's degree,standard,none,81,77,79,237,79.0,PASS
+543,female,group D,associate's degree,standard,none,82,95,89,266,88.66666666666667,PASS
+544,female,group D,master's degree,standard,none,64,63,66,193,64.33333333333333,PASS
+545,male,group E,some high school,free/reduced,completed,78,83,80,241,80.33333333333333,PASS
+546,female,group A,some high school,standard,completed,92,100,97,289,96.33333333333333,PASS
+547,male,group C,high school,standard,completed,72,67,64,203,67.66666666666667,PASS
+548,female,group C,high school,free/reduced,none,62,67,64,193,64.33333333333333,PASS
+549,male,group C,master's degree,standard,none,79,72,69,220,73.33333333333333,PASS
+550,male,group C,some high school,free/reduced,none,79,76,65,220,73.33333333333333,PASS
+551,male,group B,bachelor's degree,free/reduced,completed,87,90,88,265,88.33333333333333,PASS
+552,female,group B,associate's degree,standard,none,40,48,50,138,46.0,PASS
+553,male,group D,some college,free/reduced,none,77,62,64,203,67.66666666666667,PASS
+554,male,group E,associate's degree,standard,none,53,45,40,138,46.0,PASS
+555,female,group C,some college,free/reduced,none,32,39,33,104,34.666666666666664,PASS
+556,female,group C,associate's degree,standard,completed,55,72,79,206,68.66666666666667,PASS
+557,male,group C,master's degree,free/reduced,none,61,67,66,194,64.66666666666667,PASS
+558,female,group B,associate's degree,free/reduced,none,53,70,70,193,64.33333333333333,PASS
+559,male,group D,some high school,standard,none,73,66,62,201,67.0,PASS
+560,female,group D,some college,standard,completed,74,75,79,228,76.0,PASS
+561,female,group C,some college,standard,none,63,74,74,211,70.33333333333333,PASS
+562,male,group C,bachelor's degree,standard,completed,96,90,92,278,92.66666666666667,PASS
+563,female,group D,some college,free/reduced,completed,63,80,80,223,74.33333333333333,PASS
+564,male,group B,bachelor's degree,free/reduced,none,48,51,46,145,48.333333333333336,PASS
+565,male,group B,associate's degree,standard,none,48,43,45,136,45.333333333333336,PASS
+566,female,group E,bachelor's degree,free/reduced,completed,92,100,100,292,97.33333333333333,PASS
+567,female,group D,master's degree,free/reduced,completed,61,71,78,210,70.0,PASS
+568,male,group B,high school,free/reduced,none,63,48,47,158,52.666666666666664,PASS
+569,male,group D,bachelor's degree,free/reduced,none,68,68,67,203,67.66666666666667,PASS
+570,male,group B,some college,standard,completed,71,75,70,216,72.0,PASS
+571,male,group A,bachelor's degree,standard,none,91,96,92,279,93.0,PASS
+572,female,group C,some college,standard,none,53,62,56,171,57.0,PASS
+573,female,group C,high school,free/reduced,completed,50,66,64,180,60.0,PASS
+574,female,group E,high school,standard,none,74,81,71,226,75.33333333333333,PASS
+575,male,group A,associate's degree,free/reduced,completed,40,55,53,148,49.333333333333336,PASS
+576,male,group A,some college,standard,completed,61,51,52,164,54.666666666666664,PASS
+577,female,group B,high school,standard,none,81,91,89,261,87.0,PASS
+578,female,group B,some college,free/reduced,completed,48,56,58,162,54.0,PASS
+579,female,group D,master's degree,standard,none,53,61,68,182,60.666666666666664,PASS
+580,female,group D,some high school,standard,none,81,97,96,274,91.33333333333333,PASS
+581,female,group E,some high school,standard,none,77,79,80,236,78.66666666666667,PASS
+582,female,group D,bachelor's degree,free/reduced,none,63,73,78,214,71.33333333333333,PASS
+583,female,group D,associate's degree,standard,completed,73,75,80,228,76.0,PASS
+584,female,group D,some college,standard,none,69,77,77,223,74.33333333333333,PASS
+585,female,group C,associate's degree,standard,none,65,76,76,217,72.33333333333333,PASS
+586,female,group A,high school,standard,none,55,73,73,201,67.0,PASS
+587,female,group C,bachelor's degree,free/reduced,none,44,63,62,169,56.333333333333336,PASS
+588,female,group C,some college,standard,none,54,64,65,183,61.0,PASS
+589,female,group A,some high school,standard,none,48,66,65,179,59.666666666666664,PASS
+590,male,group C,some college,free/reduced,none,58,57,54,169,56.333333333333336,PASS
+591,male,group A,some high school,standard,none,71,62,50,183,61.0,PASS
+592,male,group E,bachelor's degree,standard,none,68,68,64,200,66.66666666666667,PASS
+593,female,group E,high school,standard,none,74,76,73,223,74.33333333333333,PASS
+594,female,group C,bachelor's degree,standard,completed,92,100,99,291,97.0,PASS
+595,female,group C,bachelor's degree,standard,completed,56,79,72,207,69.0,PASS
+596,male,group B,high school,free/reduced,none,30,24,15,69,23.0,FAIL
+597,male,group A,some high school,standard,none,53,54,48,155,51.666666666666664,PASS
+598,female,group D,high school,standard,none,69,77,73,219,73.0,PASS
+599,female,group D,some high school,standard,none,65,82,81,228,76.0,PASS
+600,female,group D,master's degree,standard,none,54,60,63,177,59.0,PASS
+601,female,group C,high school,standard,none,29,29,30,88,29.333333333333332,FAIL
+602,female,group E,some college,standard,none,76,78,80,234,78.0,PASS
+603,male,group D,high school,free/reduced,none,60,57,51,168,56.0,PASS
+604,male,group D,master's degree,free/reduced,completed,84,89,90,263,87.66666666666667,PASS
+605,male,group C,some high school,standard,none,75,72,62,209,69.66666666666667,PASS
+606,female,group C,associate's degree,standard,none,85,84,82,251,83.66666666666667,PASS
+607,female,group C,master's degree,free/reduced,none,40,58,54,152,50.666666666666664,PASS
+608,female,group E,some college,standard,none,61,64,62,187,62.333333333333336,PASS
+609,female,group B,associate's degree,standard,none,58,63,65,186,62.0,PASS
+610,male,group D,some college,free/reduced,completed,69,60,63,192,64.0,PASS
+611,female,group C,some college,standard,none,58,59,66,183,61.0,PASS
+612,male,group C,bachelor's degree,standard,completed,94,90,91,275,91.66666666666667,PASS
+613,female,group C,associate's degree,standard,none,65,77,74,216,72.0,PASS
+614,female,group A,associate's degree,standard,none,82,93,93,268,89.33333333333333,PASS
+615,female,group C,high school,standard,none,60,68,72,200,66.66666666666667,PASS
+616,female,group E,bachelor's degree,standard,none,37,45,38,120,40.0,PASS
+617,male,group D,bachelor's degree,standard,none,88,78,83,249,83.0,PASS
+618,male,group D,master's degree,standard,none,95,81,84,260,86.66666666666667,PASS
+619,male,group C,associate's degree,free/reduced,completed,65,73,68,206,68.66666666666667,PASS
+620,female,group C,high school,free/reduced,none,35,61,54,150,50.0,PASS
+621,male,group B,bachelor's degree,free/reduced,none,62,63,56,181,60.333333333333336,PASS
+622,male,group C,high school,free/reduced,completed,58,51,52,161,53.666666666666664,PASS
+623,male,group A,some college,standard,completed,100,96,86,282,94.0,PASS
+624,female,group E,bachelor's degree,free/reduced,none,61,58,62,181,60.333333333333336,PASS
+625,male,group D,some college,standard,completed,100,97,99,296,98.66666666666667,PASS
+626,male,group B,associate's degree,free/reduced,completed,69,70,63,202,67.33333333333333,PASS
+627,male,group D,associate's degree,standard,none,61,48,46,155,51.666666666666664,PASS
+628,male,group D,some college,free/reduced,none,49,57,46,152,50.666666666666664,PASS
+629,female,group C,some high school,standard,completed,44,51,55,150,50.0,PASS
+630,male,group D,some college,standard,none,67,64,70,201,67.0,PASS
+631,male,group B,high school,standard,none,79,60,65,204,68.0,PASS
+632,female,group B,bachelor's degree,standard,completed,66,74,81,221,73.66666666666667,PASS
+633,female,group C,high school,standard,none,75,88,85,248,82.66666666666667,PASS
+634,male,group D,some high school,standard,none,84,84,80,248,82.66666666666667,PASS
+635,male,group A,high school,standard,none,71,74,64,209,69.66666666666667,PASS
+636,female,group B,high school,free/reduced,completed,67,80,81,228,76.0,PASS
+637,female,group D,some high school,standard,completed,80,92,88,260,86.66666666666667,PASS
+638,male,group E,some college,standard,none,86,76,74,236,78.66666666666667,PASS
+639,female,group D,associate's degree,standard,none,76,74,73,223,74.33333333333333,PASS
+640,male,group D,high school,standard,none,41,52,51,144,48.0,PASS
+641,female,group D,associate's degree,free/reduced,completed,74,88,90,252,84.0,PASS
+642,female,group B,some high school,free/reduced,none,72,81,79,232,77.33333333333333,PASS
+643,female,group E,high school,standard,completed,74,79,80,233,77.66666666666667,PASS
+644,male,group B,high school,standard,none,70,65,60,195,65.0,PASS
+645,female,group B,bachelor's degree,standard,completed,65,81,81,227,75.66666666666667,PASS
+646,female,group D,associate's degree,standard,none,59,70,65,194,64.66666666666667,PASS
+647,female,group E,high school,free/reduced,none,64,62,68,194,64.66666666666667,PASS
+648,female,group B,high school,standard,none,50,53,55,158,52.666666666666664,PASS
+649,female,group D,some college,standard,completed,69,79,81,229,76.33333333333333,PASS
+650,male,group C,some high school,free/reduced,completed,51,56,53,160,53.333333333333336,PASS
+651,female,group A,high school,standard,completed,68,80,76,224,74.66666666666667,PASS
+652,female,group D,some college,standard,completed,85,86,98,269,89.66666666666667,PASS
+653,female,group A,associate's degree,standard,completed,65,70,74,209,69.66666666666667,PASS
+654,female,group B,some high school,standard,none,73,79,79,231,77.0,PASS
+655,female,group B,some college,standard,none,62,67,67,196,65.33333333333333,PASS
+656,male,group C,associate's degree,free/reduced,none,77,67,64,208,69.33333333333333,PASS
+657,male,group D,some high school,standard,none,69,66,61,196,65.33333333333333,PASS
+658,female,group D,associate's degree,free/reduced,none,43,60,58,161,53.666666666666664,PASS
+659,male,group D,associate's degree,standard,none,90,87,85,262,87.33333333333333,PASS
+660,male,group C,some college,free/reduced,none,74,77,73,224,74.66666666666667,PASS
+661,male,group C,some high school,standard,none,73,66,63,202,67.33333333333333,PASS
+662,female,group D,some college,free/reduced,none,55,71,69,195,65.0,PASS
+663,female,group C,high school,standard,none,65,69,67,201,67.0,PASS
+664,male,group D,associate's degree,standard,none,80,63,63,206,68.66666666666667,PASS
+665,female,group C,some high school,free/reduced,completed,50,60,60,170,56.666666666666664,PASS
+666,female,group C,some college,free/reduced,completed,63,73,71,207,69.0,PASS
+667,female,group B,bachelor's degree,free/reduced,none,77,85,87,249,83.0,PASS
+668,male,group C,some college,standard,none,73,74,61,208,69.33333333333333,PASS
+669,male,group D,associate's degree,standard,completed,81,72,77,230,76.66666666666667,PASS
+670,female,group C,high school,free/reduced,none,66,76,68,210,70.0,PASS
+671,male,group D,associate's degree,free/reduced,none,52,57,50,159,53.0,PASS
+672,female,group C,some college,standard,none,69,78,76,223,74.33333333333333,PASS
+673,female,group C,associate's degree,standard,completed,65,84,84,233,77.66666666666667,PASS
+674,female,group D,high school,standard,completed,69,77,78,224,74.66666666666667,PASS
+675,female,group B,some college,standard,completed,50,64,66,180,60.0,PASS
+676,female,group E,some college,standard,completed,73,78,76,227,75.66666666666667,PASS
+677,female,group C,some high school,standard,completed,70,82,76,228,76.0,PASS
+678,male,group D,associate's degree,free/reduced,none,81,75,78,234,78.0,PASS
+679,male,group D,some college,free/reduced,none,63,61,60,184,61.333333333333336,PASS
+680,female,group D,high school,standard,none,67,72,74,213,71.0,PASS
+681,male,group B,high school,standard,none,60,68,60,188,62.666666666666664,PASS
+682,male,group B,high school,standard,none,62,55,54,171,57.0,PASS
+683,female,group C,some high school,free/reduced,completed,29,40,44,113,37.666666666666664,PASS
+684,male,group B,some college,standard,completed,62,66,68,196,65.33333333333333,PASS
+685,female,group E,master's degree,standard,completed,94,99,100,293,97.66666666666667,PASS
+686,male,group E,some college,standard,completed,85,75,68,228,76.0,PASS
+687,male,group D,associate's degree,free/reduced,none,77,78,73,228,76.0,PASS
+688,male,group A,high school,free/reduced,none,53,58,44,155,51.666666666666664,PASS
+689,male,group E,some college,free/reduced,none,93,90,83,266,88.66666666666667,PASS
+690,female,group C,associate's degree,standard,none,49,53,53,155,51.666666666666664,PASS
+691,female,group E,associate's degree,free/reduced,none,73,76,78,227,75.66666666666667,PASS
+692,female,group C,bachelor's degree,free/reduced,completed,66,74,81,221,73.66666666666667,PASS
+693,female,group D,associate's degree,standard,none,77,77,73,227,75.66666666666667,PASS
+694,female,group C,some high school,standard,none,49,63,56,168,56.0,PASS
+695,female,group D,some college,free/reduced,none,79,89,86,254,84.66666666666667,PASS
+696,female,group C,associate's degree,standard,completed,75,82,90,247,82.33333333333333,PASS
+697,female,group A,bachelor's degree,standard,none,59,72,70,201,67.0,PASS
+698,female,group D,associate's degree,standard,completed,57,78,79,214,71.33333333333333,PASS
+699,male,group C,high school,free/reduced,none,66,66,59,191,63.666666666666664,PASS
+700,female,group E,bachelor's degree,standard,completed,79,81,82,242,80.66666666666667,PASS
+701,female,group B,some high school,standard,none,57,67,72,196,65.33333333333333,PASS
+702,male,group A,bachelor's degree,standard,completed,87,84,87,258,86.0,PASS
+703,female,group D,some college,standard,none,63,64,67,194,64.66666666666667,PASS
+704,female,group B,some high school,free/reduced,completed,59,63,64,186,62.0,PASS
+705,male,group A,bachelor's degree,free/reduced,none,62,72,65,199,66.33333333333333,PASS
+706,male,group D,high school,standard,none,46,34,36,116,38.666666666666664,PASS
+707,male,group C,some college,standard,none,66,59,52,177,59.0,PASS
+708,male,group D,high school,standard,none,89,87,79,255,85.0,PASS
+709,female,group D,associate's degree,free/reduced,completed,42,61,58,161,53.666666666666664,PASS
+710,male,group C,some college,standard,completed,93,84,90,267,89.0,PASS
+711,female,group E,some high school,standard,completed,80,85,85,250,83.33333333333333,PASS
+712,female,group D,some college,standard,none,98,100,99,297,99.0,PASS
+713,male,group D,master's degree,standard,none,81,81,84,246,82.0,PASS
+714,female,group B,some high school,standard,completed,60,70,74,204,68.0,PASS
+715,female,group B,associate's degree,free/reduced,completed,76,94,87,257,85.66666666666667,PASS
+716,male,group C,associate's degree,standard,completed,73,78,72,223,74.33333333333333,PASS
+717,female,group C,associate's degree,standard,completed,96,96,99,291,97.0,PASS
+718,female,group C,high school,standard,none,76,76,74,226,75.33333333333333,PASS
+719,male,group E,associate's degree,free/reduced,completed,91,73,80,244,81.33333333333333,PASS
+720,female,group C,some college,free/reduced,none,62,72,70,204,68.0,PASS
+721,male,group D,some high school,free/reduced,completed,55,59,59,173,57.666666666666664,PASS
+722,female,group B,some high school,free/reduced,completed,74,90,88,252,84.0,PASS
+723,male,group C,high school,standard,none,50,48,42,140,46.666666666666664,PASS
+724,male,group B,some college,standard,none,47,43,41,131,43.666666666666664,PASS
+725,male,group E,some college,standard,completed,81,74,71,226,75.33333333333333,PASS
+726,female,group E,associate's degree,standard,completed,65,75,77,217,72.33333333333333,PASS
+727,male,group E,some high school,standard,completed,68,51,57,176,58.666666666666664,PASS
+728,female,group D,high school,free/reduced,none,73,92,84,249,83.0,PASS
+729,male,group C,some college,standard,none,53,39,37,129,43.0,PASS
+730,female,group B,associate's degree,free/reduced,completed,68,77,80,225,75.0,PASS
+731,male,group A,some high school,free/reduced,none,55,46,43,144,48.0,PASS
+732,female,group C,some college,standard,completed,87,89,94,270,90.0,PASS
+733,male,group D,some high school,standard,none,55,47,44,146,48.666666666666664,PASS
+734,female,group E,some college,free/reduced,none,53,58,57,168,56.0,PASS
+735,male,group C,master's degree,standard,none,67,57,59,183,61.0,PASS
+736,male,group C,associate's degree,standard,none,92,79,84,255,85.0,PASS
+737,female,group B,some college,free/reduced,completed,53,66,73,192,64.0,PASS
+738,male,group D,associate's degree,standard,none,81,71,73,225,75.0,PASS
+739,male,group C,high school,free/reduced,none,61,60,55,176,58.666666666666664,PASS
+740,male,group D,bachelor's degree,standard,none,80,73,72,225,75.0,PASS
+741,female,group A,associate's degree,free/reduced,none,37,57,56,150,50.0,PASS
+742,female,group C,high school,standard,none,81,84,82,247,82.33333333333333,PASS
+743,female,group C,associate's degree,standard,completed,59,73,72,204,68.0,PASS
+744,male,group B,some college,free/reduced,none,55,55,47,157,52.333333333333336,PASS
+745,male,group D,associate's degree,standard,none,72,79,74,225,75.0,PASS
+746,male,group D,high school,standard,none,69,75,71,215,71.66666666666667,PASS
+747,male,group C,some college,standard,none,69,64,68,201,67.0,PASS
+748,female,group C,bachelor's degree,free/reduced,none,50,60,59,169,56.333333333333336,PASS
+749,male,group B,some college,standard,completed,87,84,86,257,85.66666666666667,PASS
+750,male,group D,some high school,standard,completed,71,69,68,208,69.33333333333333,PASS
+751,male,group E,some college,standard,none,68,72,65,205,68.33333333333333,PASS
+752,male,group C,master's degree,free/reduced,completed,79,77,75,231,77.0,PASS
+753,female,group C,some high school,standard,completed,77,90,85,252,84.0,PASS
+754,male,group C,associate's degree,free/reduced,none,58,55,53,166,55.333333333333336,PASS
+755,female,group E,associate's degree,standard,none,84,95,92,271,90.33333333333333,PASS
+756,male,group D,some college,standard,none,55,58,52,165,55.0,PASS
+757,male,group E,bachelor's degree,free/reduced,completed,70,68,72,210,70.0,PASS
+758,female,group D,some college,free/reduced,completed,52,59,65,176,58.666666666666664,PASS
+759,male,group B,some college,standard,completed,69,77,77,223,74.33333333333333,PASS
+760,female,group C,high school,free/reduced,none,53,72,64,189,63.0,PASS
+761,female,group D,some high school,standard,none,48,58,54,160,53.333333333333336,PASS
+762,male,group D,some high school,standard,completed,78,81,86,245,81.66666666666667,PASS
+763,female,group B,high school,standard,none,62,62,63,187,62.333333333333336,PASS
+764,male,group D,some college,standard,none,60,63,59,182,60.666666666666664,PASS
+765,female,group B,high school,standard,none,74,72,72,218,72.66666666666667,PASS
+766,female,group C,high school,standard,completed,58,75,77,210,70.0,PASS
+767,male,group B,high school,standard,completed,76,62,60,198,66.0,PASS
+768,female,group D,some high school,standard,none,68,71,75,214,71.33333333333333,PASS
+769,male,group A,some college,free/reduced,none,58,60,57,175,58.333333333333336,PASS
+770,male,group B,high school,standard,none,52,48,49,149,49.666666666666664,PASS
+771,male,group D,bachelor's degree,standard,none,75,73,74,222,74.0,PASS
+772,female,group B,some high school,free/reduced,completed,52,67,72,191,63.666666666666664,PASS
+773,female,group C,bachelor's degree,free/reduced,none,62,78,79,219,73.0,PASS
+774,male,group B,some college,standard,none,66,65,60,191,63.666666666666664,PASS
+775,female,group B,some high school,free/reduced,none,49,58,55,162,54.0,PASS
+776,female,group B,high school,standard,none,66,72,70,208,69.33333333333333,PASS
+777,female,group C,some college,free/reduced,none,35,44,43,122,40.666666666666664,PASS
+778,female,group A,some college,standard,completed,72,79,82,233,77.66666666666667,PASS
+779,male,group E,associate's degree,standard,completed,94,85,82,261,87.0,PASS
+780,female,group D,associate's degree,free/reduced,none,46,56,57,159,53.0,PASS
+781,female,group B,master's degree,standard,none,77,90,84,251,83.66666666666667,PASS
+782,female,group B,high school,free/reduced,completed,76,85,82,243,81.0,PASS
+783,female,group C,associate's degree,standard,completed,52,59,62,173,57.666666666666664,PASS
+784,male,group C,bachelor's degree,standard,completed,91,81,79,251,83.66666666666667,PASS
+785,female,group B,some high school,standard,completed,32,51,44,127,42.333333333333336,PASS
+786,female,group E,some high school,free/reduced,none,72,79,77,228,76.0,PASS
+787,female,group B,some college,standard,none,19,38,32,89,29.666666666666668,FAIL
+788,male,group C,associate's degree,free/reduced,none,68,65,61,194,64.66666666666667,PASS
+789,female,group C,master's degree,free/reduced,none,52,65,61,178,59.333333333333336,PASS
+790,female,group B,high school,standard,none,48,62,60,170,56.666666666666664,PASS
+791,female,group D,some college,free/reduced,none,60,66,70,196,65.33333333333333,PASS
+792,male,group D,high school,free/reduced,none,66,74,69,209,69.66666666666667,PASS
+793,male,group E,some high school,standard,completed,89,84,77,250,83.33333333333333,PASS
+794,female,group B,high school,standard,none,42,52,51,145,48.333333333333336,PASS
+795,female,group E,associate's degree,free/reduced,completed,57,68,73,198,66.0,PASS
+796,male,group D,high school,standard,none,70,70,70,210,70.0,PASS
+797,female,group E,associate's degree,free/reduced,none,70,84,81,235,78.33333333333333,PASS
+798,male,group E,some college,standard,none,69,60,54,183,61.0,PASS
+799,female,group C,associate's degree,standard,none,52,55,57,164,54.666666666666664,PASS
+800,male,group C,some high school,standard,completed,67,73,68,208,69.33333333333333,PASS
+801,male,group C,some high school,standard,completed,76,80,73,229,76.33333333333333,PASS
+802,female,group E,associate's degree,standard,none,87,94,95,276,92.0,PASS
+803,female,group B,some college,standard,none,82,85,87,254,84.66666666666667,PASS
+804,female,group C,some college,standard,none,73,76,78,227,75.66666666666667,PASS
+805,male,group A,some college,free/reduced,none,75,81,74,230,76.66666666666667,PASS
+806,female,group D,some college,free/reduced,none,64,74,75,213,71.0,PASS
+807,female,group E,high school,free/reduced,none,41,45,40,126,42.0,PASS
+808,male,group C,high school,standard,none,90,75,69,234,78.0,PASS
+809,male,group B,bachelor's degree,standard,none,59,54,51,164,54.666666666666664,PASS
+810,male,group A,some high school,standard,none,51,31,36,118,39.333333333333336,PASS
+811,male,group A,high school,free/reduced,none,45,47,49,141,47.0,PASS
+812,female,group C,master's degree,standard,completed,54,64,67,185,61.666666666666664,PASS
+813,male,group E,some high school,standard,completed,87,84,76,247,82.33333333333333,PASS
+814,female,group C,high school,standard,none,72,80,83,235,78.33333333333333,PASS
+815,male,group B,some high school,standard,completed,94,86,87,267,89.0,PASS
+816,female,group A,bachelor's degree,standard,none,45,59,64,168,56.0,PASS
+817,male,group D,bachelor's degree,free/reduced,completed,61,70,76,207,69.0,PASS
+818,female,group B,high school,free/reduced,none,60,72,68,200,66.66666666666667,PASS
+819,female,group C,some high school,standard,none,77,91,88,256,85.33333333333333,PASS
+820,female,group A,some high school,standard,completed,85,90,92,267,89.0,PASS
+821,female,group D,bachelor's degree,free/reduced,none,78,90,93,261,87.0,PASS
+822,male,group E,some college,free/reduced,completed,49,52,51,152,50.666666666666664,PASS
+823,female,group B,high school,free/reduced,none,71,87,82,240,80.0,PASS
+824,female,group C,some high school,free/reduced,none,48,58,52,158,52.666666666666664,PASS
+825,male,group C,high school,standard,none,62,67,58,187,62.333333333333336,PASS
+826,female,group C,associate's degree,free/reduced,completed,56,68,70,194,64.66666666666667,PASS
+827,female,group C,some high school,standard,none,65,69,76,210,70.0,PASS
+828,female,group D,some high school,free/reduced,completed,69,86,81,236,78.66666666666667,PASS
+829,male,group B,some high school,standard,none,68,54,53,175,58.333333333333336,PASS
+830,female,group A,some college,free/reduced,none,61,60,57,178,59.333333333333336,PASS
+831,female,group C,bachelor's degree,free/reduced,completed,74,86,89,249,83.0,PASS
+832,male,group A,bachelor's degree,standard,none,64,60,58,182,60.666666666666664,PASS
+833,female,group B,high school,standard,completed,77,82,89,248,82.66666666666667,PASS
+834,male,group B,some college,standard,none,58,50,45,153,51.0,PASS
+835,female,group C,high school,standard,completed,60,64,74,198,66.0,PASS
+836,male,group E,high school,standard,none,73,64,57,194,64.66666666666667,PASS
+837,female,group A,high school,standard,completed,75,82,79,236,78.66666666666667,PASS
+838,male,group B,associate's degree,free/reduced,completed,58,57,53,168,56.0,PASS
+839,female,group C,associate's degree,standard,none,66,77,73,216,72.0,PASS
+840,female,group D,high school,free/reduced,none,39,52,46,137,45.666666666666664,PASS
+841,male,group C,some high school,standard,none,64,58,51,173,57.666666666666664,PASS
+842,female,group B,high school,free/reduced,completed,23,44,36,103,34.333333333333336,PASS
+843,male,group B,some college,free/reduced,completed,74,77,76,227,75.66666666666667,PASS
+844,female,group D,some high school,free/reduced,completed,40,65,64,169,56.333333333333336,PASS
+845,male,group E,master's degree,standard,none,90,85,84,259,86.33333333333333,PASS
+846,male,group C,master's degree,standard,completed,91,85,85,261,87.0,PASS
+847,male,group D,high school,standard,none,64,54,50,168,56.0,PASS
+848,female,group C,high school,standard,none,59,72,68,199,66.33333333333333,PASS
+849,male,group D,associate's degree,standard,none,80,75,69,224,74.66666666666667,PASS
+850,male,group C,master's degree,standard,none,71,67,67,205,68.33333333333333,PASS
+851,female,group A,high school,standard,none,61,68,63,192,64.0,PASS
+852,female,group E,some college,standard,none,87,85,93,265,88.33333333333333,PASS
+853,male,group E,some high school,standard,none,82,67,61,210,70.0,PASS
+854,male,group C,some high school,standard,none,62,64,55,181,60.333333333333336,PASS
+855,female,group B,bachelor's degree,standard,none,97,97,96,290,96.66666666666667,PASS
+856,male,group B,some college,free/reduced,none,75,68,65,208,69.33333333333333,PASS
+857,female,group C,bachelor's degree,standard,none,65,79,81,225,75.0,PASS
+858,male,group B,high school,standard,completed,52,49,46,147,49.0,PASS
+859,male,group C,associate's degree,free/reduced,none,87,73,72,232,77.33333333333333,PASS
+860,female,group C,associate's degree,standard,none,53,62,53,168,56.0,PASS
+861,female,group E,master's degree,free/reduced,none,81,86,87,254,84.66666666666667,PASS
+862,male,group D,bachelor's degree,free/reduced,completed,39,42,38,119,39.666666666666664,PASS
+863,female,group C,some college,standard,completed,71,71,80,222,74.0,PASS
+864,male,group C,associate's degree,standard,none,97,93,91,281,93.66666666666667,PASS
+865,male,group D,some college,standard,completed,82,82,88,252,84.0,PASS
+866,male,group C,high school,free/reduced,none,59,53,52,164,54.666666666666664,PASS
+867,male,group B,associate's degree,standard,none,61,42,41,144,48.0,PASS
+868,male,group E,associate's degree,free/reduced,completed,78,74,72,224,74.66666666666667,PASS
+869,male,group C,associate's degree,free/reduced,none,49,51,51,151,50.333333333333336,PASS
+870,male,group B,high school,standard,none,59,58,47,164,54.666666666666664,PASS
+871,female,group C,some college,standard,completed,70,72,76,218,72.66666666666667,PASS
+872,male,group B,associate's degree,standard,completed,82,84,78,244,81.33333333333333,PASS
+873,male,group E,associate's degree,free/reduced,none,90,90,82,262,87.33333333333333,PASS
+874,female,group C,bachelor's degree,free/reduced,none,43,62,61,166,55.333333333333336,PASS
+875,male,group C,some college,free/reduced,none,80,64,66,210,70.0,PASS
+876,male,group D,some college,standard,none,81,82,84,247,82.33333333333333,PASS
+877,male,group C,some high school,standard,none,57,61,54,172,57.333333333333336,PASS
+878,female,group D,some high school,standard,none,59,72,80,211,70.33333333333333,PASS
+879,female,group D,associate's degree,standard,none,64,76,74,214,71.33333333333333,PASS
+880,male,group C,bachelor's degree,standard,completed,63,64,66,193,64.33333333333333,PASS
+881,female,group E,bachelor's degree,standard,completed,71,70,70,211,70.33333333333333,PASS
+882,female,group B,high school,free/reduced,none,64,73,71,208,69.33333333333333,PASS
+883,male,group D,bachelor's degree,free/reduced,none,55,46,44,145,48.333333333333336,PASS
+884,female,group E,associate's degree,standard,none,51,51,54,156,52.0,PASS
+885,female,group C,associate's degree,standard,completed,62,76,80,218,72.66666666666667,PASS
+886,female,group E,associate's degree,standard,completed,93,100,95,288,96.0,PASS
+887,male,group C,high school,free/reduced,none,54,72,59,185,61.666666666666664,PASS
+888,female,group D,some college,free/reduced,none,69,65,74,208,69.33333333333333,PASS
+889,male,group D,high school,free/reduced,none,44,51,48,143,47.666666666666664,PASS
+890,female,group E,some college,standard,completed,86,85,91,262,87.33333333333333,PASS
+891,female,group E,associate's degree,standard,none,85,92,85,262,87.33333333333333,PASS
+892,female,group A,master's degree,free/reduced,none,50,67,73,190,63.333333333333336,PASS
+893,male,group D,some high school,standard,completed,88,74,75,237,79.0,PASS
+894,female,group E,associate's degree,standard,none,59,62,69,190,63.333333333333336,PASS
+895,female,group E,some high school,free/reduced,none,32,34,38,104,34.666666666666664,PASS
+896,male,group B,high school,free/reduced,none,36,29,27,92,30.666666666666668,FAIL
+897,female,group B,some high school,free/reduced,completed,63,78,79,220,73.33333333333333,PASS
+898,male,group D,associate's degree,standard,completed,67,54,63,184,61.333333333333336,PASS
+899,female,group D,some high school,standard,completed,65,78,82,225,75.0,PASS
+900,male,group D,master's degree,standard,none,85,84,89,258,86.0,PASS
+901,female,group C,master's degree,standard,none,73,78,74,225,75.0,PASS
+902,female,group A,high school,free/reduced,completed,34,48,41,123,41.0,PASS
+903,female,group D,bachelor's degree,free/reduced,completed,93,100,100,293,97.66666666666667,PASS
+904,female,group D,some high school,free/reduced,none,67,84,84,235,78.33333333333333,PASS
+905,male,group D,some college,standard,none,88,77,77,242,80.66666666666667,PASS
+906,male,group B,high school,standard,none,57,48,51,156,52.0,PASS
+907,female,group D,some college,standard,completed,79,84,91,254,84.66666666666667,PASS
+908,female,group C,bachelor's degree,free/reduced,none,67,75,72,214,71.33333333333333,PASS
+909,male,group E,bachelor's degree,standard,completed,70,64,70,204,68.0,PASS
+910,male,group D,bachelor's degree,free/reduced,none,50,42,48,140,46.666666666666664,PASS
+911,female,group A,some college,standard,none,69,84,82,235,78.33333333333333,PASS
+912,female,group C,bachelor's degree,standard,completed,52,61,66,179,59.666666666666664,PASS
+913,female,group C,bachelor's degree,free/reduced,completed,47,62,66,175,58.333333333333336,PASS
+914,female,group B,associate's degree,free/reduced,none,46,61,55,162,54.0,PASS
+915,female,group E,some college,standard,none,68,70,66,204,68.0,PASS
+916,male,group E,bachelor's degree,standard,completed,100,100,100,300,100.0,PASS
+917,female,group C,high school,standard,none,44,61,52,157,52.333333333333336,PASS
+918,female,group C,associate's degree,standard,completed,57,77,80,214,71.33333333333333,PASS
+919,male,group B,some college,standard,completed,91,96,91,278,92.66666666666667,PASS
+920,male,group D,high school,free/reduced,none,69,70,67,206,68.66666666666667,PASS
+921,female,group C,high school,free/reduced,none,35,53,46,134,44.666666666666664,PASS
+922,male,group D,high school,standard,none,72,66,66,204,68.0,PASS
+923,female,group B,associate's degree,free/reduced,none,54,65,65,184,61.333333333333336,PASS
+924,male,group D,high school,free/reduced,none,74,70,69,213,71.0,PASS
+925,male,group E,some high school,standard,completed,74,64,60,198,66.0,PASS
+926,male,group E,associate's degree,free/reduced,none,64,56,52,172,57.333333333333336,PASS
+927,female,group D,high school,free/reduced,completed,65,61,71,197,65.66666666666667,PASS
+928,male,group E,associate's degree,free/reduced,completed,46,43,44,133,44.333333333333336,PASS
+929,female,group C,some high school,free/reduced,none,48,56,51,155,51.666666666666664,PASS
+930,male,group C,some college,free/reduced,completed,67,74,70,211,70.33333333333333,PASS
+931,male,group D,some college,free/reduced,none,62,57,62,181,60.333333333333336,PASS
+932,male,group D,associate's degree,free/reduced,completed,61,71,73,205,68.33333333333333,PASS
+933,male,group C,bachelor's degree,free/reduced,completed,70,75,74,219,73.0,PASS
+934,male,group C,associate's degree,standard,completed,98,87,90,275,91.66666666666667,PASS
+935,male,group D,some college,free/reduced,none,70,63,58,191,63.666666666666664,PASS
+936,male,group A,associate's degree,standard,none,67,57,53,177,59.0,PASS
+937,female,group E,high school,free/reduced,none,57,58,57,172,57.333333333333336,PASS
+938,male,group D,some college,standard,completed,85,81,85,251,83.66666666666667,PASS
+939,male,group D,some high school,standard,completed,77,68,69,214,71.33333333333333,PASS
+940,male,group C,master's degree,free/reduced,completed,72,66,72,210,70.0,PASS
+941,female,group D,master's degree,standard,none,78,91,96,265,88.33333333333333,PASS
+942,male,group C,high school,standard,none,81,66,64,211,70.33333333333333,PASS
+943,male,group A,some high school,free/reduced,completed,61,62,61,184,61.333333333333336,PASS
+944,female,group B,high school,standard,none,58,68,61,187,62.333333333333336,PASS
+945,female,group C,associate's degree,standard,none,54,61,58,173,57.666666666666664,PASS
+946,male,group B,high school,standard,none,82,82,80,244,81.33333333333333,PASS
+947,female,group D,some college,free/reduced,none,49,58,60,167,55.666666666666664,PASS
+948,male,group B,some high school,free/reduced,completed,49,50,52,151,50.333333333333336,PASS
+949,female,group E,high school,free/reduced,completed,57,75,73,205,68.33333333333333,PASS
+950,male,group E,high school,standard,none,94,73,71,238,79.33333333333333,PASS
+951,female,group D,some college,standard,completed,75,77,83,235,78.33333333333333,PASS
+952,female,group E,some high school,free/reduced,none,74,74,72,220,73.33333333333333,PASS
+953,male,group C,high school,standard,completed,58,52,54,164,54.666666666666664,PASS
+954,female,group C,some college,standard,none,62,69,69,200,66.66666666666667,PASS
+955,male,group E,associate's degree,standard,none,72,57,62,191,63.666666666666664,PASS
+956,male,group C,some college,standard,none,84,87,81,252,84.0,PASS
+957,female,group D,master's degree,standard,none,92,100,100,292,97.33333333333333,PASS
+958,female,group D,high school,standard,none,45,63,59,167,55.666666666666664,PASS
+959,male,group C,high school,standard,none,75,81,71,227,75.66666666666667,PASS
+960,female,group A,some college,standard,none,56,58,64,178,59.333333333333336,PASS
+961,female,group D,some high school,free/reduced,none,48,54,53,155,51.666666666666664,PASS
+962,female,group E,associate's degree,standard,none,100,100,100,300,100.0,PASS
+963,female,group C,some high school,free/reduced,completed,65,76,75,216,72.0,PASS
+964,male,group D,some college,standard,none,72,57,58,187,62.333333333333336,PASS
+965,female,group D,some college,standard,none,62,70,72,204,68.0,PASS
+966,male,group A,some high school,standard,completed,66,68,64,198,66.0,PASS
+967,male,group C,some college,standard,none,63,63,60,186,62.0,PASS
+968,female,group E,associate's degree,standard,none,68,76,67,211,70.33333333333333,PASS
+969,female,group B,bachelor's degree,standard,none,75,84,80,239,79.66666666666667,PASS
+970,female,group D,bachelor's degree,standard,none,89,100,100,289,96.33333333333333,PASS
+971,male,group C,some high school,standard,completed,78,72,69,219,73.0,PASS
+972,female,group A,high school,free/reduced,completed,53,50,60,163,54.333333333333336,PASS
+973,female,group D,some college,free/reduced,none,49,65,61,175,58.333333333333336,PASS
+974,female,group A,some college,standard,none,54,63,67,184,61.333333333333336,PASS
+975,female,group C,some college,standard,completed,64,82,77,223,74.33333333333333,PASS
+976,male,group B,some college,free/reduced,completed,60,62,60,182,60.666666666666664,PASS
+977,male,group C,associate's degree,standard,none,62,65,58,185,61.666666666666664,PASS
+978,male,group D,high school,standard,completed,55,41,48,144,48.0,PASS
+979,female,group C,associate's degree,standard,none,91,95,94,280,93.33333333333333,PASS
+980,female,group B,high school,free/reduced,none,8,24,23,55,18.333333333333332,FAIL
+981,male,group D,some high school,standard,none,81,78,78,237,79.0,PASS
+982,male,group B,some high school,standard,completed,79,85,86,250,83.33333333333333,PASS
+983,female,group A,some college,standard,completed,78,87,91,256,85.33333333333333,PASS
+984,female,group C,some high school,standard,none,74,75,82,231,77.0,PASS
+985,male,group A,high school,standard,none,57,51,54,162,54.0,PASS
+986,female,group C,associate's degree,standard,none,40,59,51,150,50.0,PASS
+987,male,group E,some high school,standard,completed,81,75,76,232,77.33333333333333,PASS
+988,female,group A,some high school,free/reduced,none,44,45,45,134,44.666666666666664,PASS
+989,female,group D,some college,free/reduced,completed,67,86,83,236,78.66666666666667,PASS
+990,male,group E,high school,free/reduced,completed,86,81,75,242,80.66666666666667,PASS
+991,female,group B,some high school,standard,completed,65,82,78,225,75.0,PASS
+992,female,group D,associate's degree,free/reduced,none,55,76,76,207,69.0,PASS
+993,female,group D,bachelor's degree,free/reduced,none,62,72,74,208,69.33333333333333,PASS
+994,male,group A,high school,standard,none,63,63,62,188,62.666666666666664,PASS
+995,female,group E,master's degree,standard,completed,88,99,95,282,94.0,PASS
+996,male,group C,high school,free/reduced,none,62,55,55,172,57.333333333333336,PASS
+997,female,group C,high school,free/reduced,completed,59,71,65,195,65.0,PASS
+998,female,group D,some college,standard,completed,68,78,77,223,74.33333333333333,PASS
+999,female,group D,some college,free/reduced,none,77,86,86,249,83.0,PASS
