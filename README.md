@@ -8,7 +8,6 @@ For each of the respective project dataset link is also provided and the modifie
 
 
 [Project 1 : Student Performance Analysis ](https://github.com/nikita1610/Data_Analysis_Projects/tree/master/Student_Performance_Analysis)                       
-
 [Project 1 : Dataset](https://www.kaggle.com/spscientist/students-performance-in-exams)
 
 
